@@ -317,41 +317,20 @@ testing.
 
 **Project Guide:** Dr. Vidhya K
 
-  -----------------------------------------------------------------------
-  Team Member       SRN               Assigned Road     Proposed
-                                                        Responsibility
-  ----------------- ----------------- ----------------- -----------------
-  Krishna G Pai     PES1UG24AM372     Road A            Detection and
-                                                        segmentation
-                                                        backbone; digital
-                                                        twin database
+ ## 11. Team Members and Responsibilities
 
-  Aryaman DK        PES1UG24AM344     Road B            Monocular depth
-                                                        estimation,
-                                                        camera
-                                                        calibration and
-                                                        uncertainty
+**Project Guide:** Dr. Vidhya K
 
-  Kshitij Satish    PES1UG24AM143     Road C            Field data
-  Shetty                                                collection,
-                                                        weather/traffic
-                                                        features and
-                                                        deterioration
-                                                        forecasting
+| Team Member | SRN | Assigned Road | Proposed Responsibility |
+|---|---|---|---|
+| Krishna G Pai | PES1UG24AM372 | Road A | Detection and segmentation backbone; digital twin database |
+| Aryaman DK | PES1UG24AM344 | Road B | Monocular depth estimation, camera calibration and uncertainty |
+| Kshitij Satish Shetty | PES1UG24AM143 | Road C | Field data collection, weather and traffic features, and deterioration forecasting |
+| Mallikarjuna Rao R.V. | PES1UG24AM155 | Road D | Physical pothole measurements, repair prioritisation and dashboard |
 
-  Mallikarjuna Rao  PES1UG24AM155     Road D            Physical pothole
-  R.V.                                                  measurements,
-                                                        repair
-                                                        prioritisation
-                                                        and dashboard
-  -----------------------------------------------------------------------
+**Shared Responsibilities:** Repeat road surveys, label review, evaluation, research documentation and final report preparation.
 
-**Shared Responsibilities:** Road ownership and repeat surveys, label
-review, evaluation, research documentation and final report preparation.
-
-*Task allocations are proposed in Review 2 and remain subject to
-confirmation with the project guide.*
-
+*The road assignments and individual responsibilities reflect the proposed allocation in Review 2 and should be updated if the team or project guide revises them.*
 ## 12. Project Timeline
 
 The project is planned across Capstone Phase-I and Phase-II over 12
